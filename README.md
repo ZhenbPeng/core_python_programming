@@ -1,0 +1,2 @@
+# core_python_programming
+core_python_programming_ver2 example and practice
